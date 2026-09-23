@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hello There 👋
 
-<!--
-**Kalatai/Kalatai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Thalisson e sou um desenvolvedor em busca da minha primeira oportunidade no mercado de tecnologia.
 
-Here are some ideas to get you started:
+Atualmente estou estudando principalmente Java e aprofundando meus conhecimentos em seus conceitos e tecnologias relacionadas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades Técnicas 💻
+
+Atualmente possuo conhecimentos em:
+
+- Java
+- Python
+- JavaScript
+- SQL
+- HTML
+- CSS
+- Inglês C1
+
+Também possuo conhecimentos básicos em desenvolvimento de jogos utilizando GML (GameMaker Language). Atualmente estou desenvolvendo um jogo simples que será disponibilizado em um repositório neste perfil.
+
+## Curiosidades Sobre Mim ☕
+- Tenho dois gatos e uma esposa maravilhosa.
+- Sou apaixonado por café.
+- Gosto de jogos, tanto de jogá-los quanto de criá-los.
+- Curto MPB e Nu Metal.
