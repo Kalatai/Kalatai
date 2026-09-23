@@ -16,7 +16,7 @@ Atualmente possuo conhecimentos em:
 - CSS
 - Inglês C1
 
-Também possuo conhecimentos básicos em desenvolvimento de jogos utilizando GML (GameMaker Language). Atualmente estou desenvolvendo um jogo simples que será disponibilizado em um repositório neste perfil.
+Também possuo conhecimentos básicos em desenvolvimento de jogos utilizando GML (GameMaker Language). Atualmente estou desenvolvendo um jogo simples que será disponibilizado em um repositório no meu perfil!
 
 ## Curiosidades Sobre Mim ☕
 - Tenho dois gatos e uma esposa maravilhosa.
